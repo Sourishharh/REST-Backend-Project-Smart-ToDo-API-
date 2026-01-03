@@ -88,7 +88,9 @@ You can import this file into Postman to test all endpoints.
 
 ## ⚙️ How to Run the Project
 
-1. Clone the repository
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Sourishharh/REST-Backend-Project-Smart-ToDo-API-.git
 2. Install dependencies:
    ```bash
    npm install
@@ -100,6 +102,7 @@ npm run dev
 
 ## 📂 Project Structure
 
+```
 akea-advisor-project-2-backend/
 ├── Smart-ToDo-API.postman_collection.json
 ├── package.json
@@ -122,3 +125,4 @@ akea-advisor-project-2-backend/
     │   └── taskRoutes.js      # Task routes
     ├── app.js                 # Express app setup
     └── server.js              # Application entry point
+```
