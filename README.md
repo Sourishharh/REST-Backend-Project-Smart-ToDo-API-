@@ -104,7 +104,7 @@ npm run dev
 
 ```
 akea-advisor-project-2-backend/
-├── Smart-ToDo-API.postman_collection.json
+├── postman_collection.json
 ├── package.json
 ├── README.md
 ├── .env.example
