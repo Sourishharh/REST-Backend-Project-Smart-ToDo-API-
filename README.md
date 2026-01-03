@@ -107,18 +107,18 @@ akea-advisor-project-2-backend/
 ├── .env.example
 ├── .gitignore
 └── src/
-├── config/
-│ └── db.js # Database connection
-├── controllers/
-│ ├── authController.js # Authentication logic
-│ └── taskController.js # Task business logic
-├── middleware/
-│ └── authMiddleware.js # JWT authentication middleware
-├── models/
-│ ├── User.js # User schema
-│ └── Task.js # Task schema
-├── routes/
-│ ├── authRoutes.js # Authentication routes
-│ └── taskRoutes.js # Task routes
-├── app.js # Express app setup
-└── server.js # Application entry point
+    ├── config/
+    │   └── db.js              # Database connection
+    ├── controllers/
+    │   ├── authController.js  # Authentication logic
+    │   └── taskController.js  # Task business logic
+    ├── middleware/
+    │   └── authMiddleware.js  # JWT authentication middleware
+    ├── models/
+    │   ├── User.js            # User schema
+    │   └── Task.js            # Task schema
+    ├── routes/
+    │   ├── authRoutes.js      # Authentication routes
+    │   └── taskRoutes.js      # Task routes
+    ├── app.js                 # Express app setup
+    └── server.js              # Application entry point
