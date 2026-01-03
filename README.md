@@ -96,7 +96,7 @@ You can import this file into Postman to test all endpoints.
    npm install
 
 ## Start the server:
-
+```bash
 npm run dev
 
 
