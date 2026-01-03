@@ -98,7 +98,8 @@ You can import this file into Postman to test all endpoints.
 ## Start the server:
 ```bash
 npm run dev
-
+```
+---
 
 ## 📂 Project Structure
 
